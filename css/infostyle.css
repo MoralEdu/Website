@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  color: white;
+  font-family: "Open Sans", Helvetica;
+ 
+
+  background: linear-gradient(rgba(20, 26, 35,0.55),rgba(20, 26, 35, 0.55)),
+				url("../img/backround1.jpeg") no-repeat center center fixed;
+	background-size: cover;
+	font-family: "Open Sans", Helvetica;
+	margin: 0;
+	position: relative;
+}
